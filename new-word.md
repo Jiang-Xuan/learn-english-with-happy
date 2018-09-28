@@ -36,10 +36,17 @@
 
 <details>
   <summary>
-    novel <strong></strong>
+    novel <strong>If you like to read books, ask if the library has any English novels or nonfiction books. I</strong>
   </summary>
   * adj.新的；新奇的 <br />
   * n.(长篇)小说；【法】新法
+</details>
+
+<details>
+  <summary>
+    nonfiction <strong>If you like to read books, ask if the library has any English novels or nonfiction books. I</strong>
+  </summary>
+  n.非小说类文学作品
 </details>
 
 <details>

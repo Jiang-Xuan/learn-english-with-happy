@@ -26,3 +26,10 @@
   <summary>proven</summary>
   * adj.被证明的；已证实的
 </details>
+
+<details>
+  <summary>
+    anxious
+  </summary>
+  * adj.焦虑；渴望；担心；忧虑
+</details>

@@ -3,7 +3,7 @@
 **默认将只显示英文**
 
 <details>
-  <summary>frustrating</summary>
+  <summary>frustrating <strong>That’s a frustrating way to learn anything. </strong></summary>
   * adj.令人懊恼的；令人沮丧的 <br />
   * v.“frustrate”的现在分词
 </details>

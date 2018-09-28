@@ -36,5 +36,14 @@
 
 <details>
   <summary>
+    novel <strong></strong>
+    * adj.新的；新奇的 <br />
+    * n.(长篇)小说；【法】新法
+  </summary>
+</details>
+
+<details>
+  <summary>
+    <strong></strong>
   </summary>
 </details>

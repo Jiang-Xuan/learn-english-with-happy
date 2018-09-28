@@ -14,3 +14,15 @@
   </summary>
   * na.教科书
 </details>
+
+<details>
+  <summary>
+    scientifically
+  </summary>
+  * adv.按科学方法
+</details>
+
+<details>
+  <summary>proven</summary>
+  * adj.被证明的；已证实的
+</details>

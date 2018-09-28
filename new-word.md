@@ -7,3 +7,10 @@
   * adj.令人懊恼的；令人沮丧的 <br />
   * v.“frustrate”的现在分词
 </details>
+
+<details>
+  <summary>
+    textbook
+  </summary>
+  * na.教科书
+</details>

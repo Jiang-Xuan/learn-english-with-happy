@@ -67,6 +67,14 @@ passionate about learning French.</strong>
 
 <details>
   <summary>
+    coward  ['kaʊərd]<strong>You are a coward.</strong>
+  </summary>
+  * n.懦夫；胆小鬼；胆怯者
+  * adj.〈诗〉怯懦的；【纹章】夹着尾巴的
+</details>
+
+<details>
+  <summary>
     <strong></strong>
   </summary>
 </details>

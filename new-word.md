@@ -51,6 +51,14 @@
 
 <details>
   <summary>
+    jealous ['dʒeləs] <strong> I felt pretty jealous
+of other students who could speak better than me.</strong>
+  </summary>
+  adj.吃醋的；妒忌的；妒羡的；忌妒的
+</details>
+
+<details>
+  <summary>
     <strong></strong>
   </summary>
 </details>

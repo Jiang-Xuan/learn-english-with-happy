@@ -75,6 +75,13 @@ passionate about learning French.</strong>
 
 <details>
   <summary>
+    lawyer ['lɔjər] <strong>I am a lawyer.</strong>
+  </summary>
+  1. n.律师
+</details>
+
+<details>
+  <summary>
     <strong></strong>
   </summary>
 </details>

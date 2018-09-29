@@ -82,6 +82,13 @@ passionate about learning French.</strong>
 
 <details>
   <summary>
+    hesitate ['hezɪ.teɪt] <strong></strong>
+  </summary>
+  * v.（对某事）犹豫；顾虑；疑虑
+</details>
+
+<details>
+  <summary>
     <strong></strong>
   </summary>
 </details>

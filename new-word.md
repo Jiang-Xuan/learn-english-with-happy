@@ -54,7 +54,15 @@
     jealous ['dʒeləs] <strong> I felt pretty jealous
 of other students who could speak better than me.</strong>
   </summary>
-  adj.吃醋的；妒忌的；妒羡的；忌妒的
+  * adj.吃醋的；妒忌的；妒羡的；忌妒的
+</details>
+
+<details>
+  <summary>
+    passionate ['pæʃ(ə)nət] <strong>Speaking one-on-one with the French teacher helped me feel confident and
+passionate about learning French.</strong>
+  </summary>
+  * adj.拥有（或表现出）强烈性爱的；情意绵绵的；怒不可遏的；热诚的
 </details>
 
 <details>

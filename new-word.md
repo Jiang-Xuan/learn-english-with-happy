@@ -89,6 +89,13 @@ passionate about learning French.</strong>
 
 <details>
   <summary>
+    beg [beɡ] <strong>He is begging you.</strong>
+  </summary>
+  * v.乞求；讨饭；请(原谅)；请(允许)
+</details>
+
+<details>
+  <summary>
     <strong></strong>
   </summary>
 </details>

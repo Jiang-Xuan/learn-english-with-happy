@@ -96,6 +96,13 @@ passionate about learning French.</strong>
 
 <details>
   <summary>
+    cheer up <strong></strong>
+  </summary>
+  * v.鼓舞；振作一点
+</details>
+
+<details>
+  <summary>
     <strong></strong>
   </summary>
 </details>

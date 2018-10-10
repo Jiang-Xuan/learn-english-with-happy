@@ -110,6 +110,13 @@ passionate about learning French.</strong>
 
 <details>
   <summary>
+    transparency [træns'perənsi] <strong>It provides structured information on tracking technologies, market structure and data-sharing on the web and thus creates more transparency.</strong>
+  </summary>
+  * n.透明度；透明性；幻灯片；透明正片
+</details>
+
+<details>
+  <summary>
     <strong></strong>
   </summary>
 </details>

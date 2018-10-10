@@ -103,6 +103,13 @@ passionate about learning French.</strong>
 
 <details>
   <summary>
+    primarily [praɪ'merəli]<strong>The General Data Protection Regulation (GDPR), which primarily aims to protect personal data within the EU, has been in effect for a little over four months now. </strong>
+  </summary>
+  * adv.主要地；根本地
+</details>
+
+<details>
+  <summary>
     <strong></strong>
   </summary>
 </details>

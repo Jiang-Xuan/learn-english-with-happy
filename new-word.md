@@ -126,6 +126,13 @@ passionate about learning French.</strong>
 
 <details>
   <summary>
+    prevalence <strong>A comparison of tracker prevalence of April against July reveals a clear picture.</strong>
+  </summary>
+  * n.流行；卓越
+</details>
+
+<details>
+  <summary>
     <strong></strong>
   </summary>
 </details>

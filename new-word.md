@@ -133,6 +133,13 @@ passionate about learning French.</strong>
 
 <details>
   <summary>
+    suffer ['sʌfər] <strong>Facebook suffered a decline of just under 7%.</strong>
+  </summary>
+  * v.遭受；受苦；忍受；经受
+</details>
+
+<details>
+  <summary>
     <strong></strong>
   </summary>
 </details>

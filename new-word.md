@@ -117,6 +117,15 @@ passionate about learning French.</strong>
 
 <details>
   <summary>
+    industry ['ɪndəstri] <strong>Before the introduction of the GDPR, the advertising industry was correspondingly concerned about the possible impact the GDPR would have on the advertising market and competition.
+
+</strong>
+  </summary>
+  * n.工业；行业；勤奋；生产制造
+</details>
+
+<details>
+  <summary>
     <strong></strong>
   </summary>
 </details>
